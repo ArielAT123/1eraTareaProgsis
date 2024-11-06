@@ -1,0 +1,14 @@
+Grupo conformado por 
+
+Cecilia Montes, integrante
+Ariel Arias, integrante
+Cesar Mera, Lider
+
+Motivo por escoger al lider:
+Se escogio a Cesar como lider, ya que se considera que es alguien con un buen manejo a la hora de trabajar en grupo.
+
+Division de tareas
+
+Cesar Mera: Hacer el makefile y revisar que todo este bien.
+Cecilia Montes: Crear los calculos y recoleccion de datos. El txt del grupo.
+Ariel Arias: El main y el menú.
